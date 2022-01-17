@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/PBbL05WB72nbhvFj2D1b47LF+q/lF9pX8Ir2rhPs9EKHIx7cfBc7zdyzwg1eZzQIj2U19il1CSZlOHt4eqbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\AuthenticationBcrypt\\AuthenticationBcrypt\\AuthenticationBcrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

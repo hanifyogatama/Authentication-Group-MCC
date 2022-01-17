@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb75e683-bdfa-4ac0-834a-c0cab43cdbf1": {
+      "ProjectGuid": "eb75e683-bdfa-4ac0-834a-c0cab43cdbf1",
+      "DisplayName": "AuthenticationBcrypt",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
