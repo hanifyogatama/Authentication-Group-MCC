@@ -18,10 +18,9 @@ namespace AuthenticationBcrypt
             Console.WriteLine("3. Search");
             Console.WriteLine("4. Login");
             Console.WriteLine("5. Exit");
+            Console.WriteLine("6. Help");
             Console.Write("Enter your option : ");
         }
-
-       
 
         public static bool RepeatSubMenu(bool isStay)
         {
