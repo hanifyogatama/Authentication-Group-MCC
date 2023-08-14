@@ -19,6 +19,7 @@ namespace AuthenticationBcrypt
             Console.WriteLine("4. Login");
             Console.WriteLine("5. Exit");
             Console.WriteLine("6. Help");
+            Console.WriteLine("9. Status");
             Console.Write("Enter your option : ");
         }
 
